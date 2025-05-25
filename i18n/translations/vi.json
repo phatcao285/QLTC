@@ -1,0 +1,31 @@
+
+{
+    "language": "Ngôn ngữ",
+    "select_language": "Chọn ngôn ngữ",
+    "language_description": "Chọn ngôn ngữ bạn muốn sử dụng trong ứng dụng. Thay đổi sẽ được áp dụng ngay lập tức.",
+    "language_note": "Lưu ý: Một số nội dung có thể không được dịch đầy đủ trong một số ngôn ngữ. Chúng tôi đang liên tục cải thiện khả năng đa ngôn ngữ của ứng dụng.",
+    "offline_message": "Bạn đang ngoại tuyến",
+    "settings": "Cài đặt",
+    "account": "Tài khoản",
+    "account_info": "Thông tin tài khoản",
+    "change_password": "Đổi mật khẩu",
+    "app_settings": "Ứng dụng",
+    "notifications": "Thông báo",
+    "dark_mode": "Chế độ tối",
+    "support_info": "Hỗ trợ & Thông tin",
+    "help_center": "Trung tâm trợ giúp",
+    "privacy_policy": "Chính sách bảo mật",
+    "about_app": "Về ứng dụng",
+    "logout": "Đăng xuất",
+    "version": "Phiên bản",
+    "processing": "Đang xử lý...",
+    "error": "Lỗi",
+    "notice": "Thông báo",
+    "feature_in_development": "Tính năng đang được phát triển",
+    "offline_update_error": "Bạn đang ngoại tuyến. Vui lòng kết nối mạng để cập nhật cài đặt.",
+    "notification_update_error": "Không thể cập nhật cài đặt thông báo.",
+    "darkmode_update_error": "Không thể cập nhật cài đặt chế độ tối.",
+    "logout_error": "Không thể đăng xuất. Vui lòng thử lại sau."
+  }
+  
+  

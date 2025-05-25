@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308796824790",
+    "project_id": "quanlytc-1ef47",
+    "storage_bucket": "quanlytc-1ef47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308796824790:android:3b46910f87fd3427ee7d77",
+        "android_client_info": {
+          "package_name": "com.qltc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFKYvO9xGVu0QSnjdKmuG8ehtGZpeZhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
